@@ -1,0 +1,63 @@
+Species Body_Wt Brain_Wt
+1. Artic fox                3.385   44.500
+2. Owl monkey                .480   15.499
+3. Mountain beaver          1.350    8.100
+4. Cow                    465.000  423.000
+5. Gray wolf               36.330  119.500
+6. Goat                    27.660  115.000
+7. Roe deer                14.830   98.200
+8. Guinea pig               1.040    5.500
+9. Vervet                   4.190   58.000
+10. Chinchilla                .425    6.400
+11. Ground squirrel           .101    4.000
+12. Arctic ground squirrel    .920    5.700
+13. Africa giant poached rat 1.000    6.600
+14. Lesser short-tailed shrew .005     .140
+15. Star-nosed mole           .060    1.000
+16. Nine-banded armadillo    3.500   10.800
+17. Tree hyrax               2.000   12.300
+18. N. American opussum      1.700    6.300
+19. Asian elephant        2547.000 4603.000
+20. Big brown bat             .023     .300
+21. Donkey                 187.100  419.000
+22. Horse                  521.000  655.000
+23. European hedgehog         .785    3.500
+24. Patas monkey            10.000  115.000
+25. Cat                      3.300   25.600
+26. Galago                    .200    5.000
+27. Genet                    1.410   17.500
+28. Giraffe                529.000  680.000
+29. Gorilla                207.000  406.000
+30. Gray seal               85.000  325.000
+31. Rock hyrax                .750   12.300
+32. Human                   62.000 1320.000
+33. African elephant      6654.000 5712.000
+34. Water opussum            3.500    3.900
+35. Rhesus monkey            6.800  179.000
+36. Kangaroo                35.000   56.000
+37. Yellow-bellied marmot   4.050    17.000
+38. Golden hamster           .120     1.000
+39. Mouse                    .023      .400
+40. Little brown bat         .010      .250
+41. Slow loris              1.400    12.500
+42. Okapi                 250.010   490.000
+43. Rabbit                  2.500    12.100
+44. Sheep                  55.500   175.000
+45. Jaguar                100.000   157.000
+46. Chimpanzee             52.160   440.000
+47. Baboon                 10.550   179.500
+48. Desert hedgehog          .550     2.400
+49. Giant armadillo        60.000    81.000
+50. Rock hyrax              3.600    21.000
+51. Raccoon                 4.288    39.200
+52. Rat                      .280     1.900
+53. Eastern American mole    .075     1.200
+54. Mole rat                 .122     3.000
+55. Musk shrew               .048      .330
+56. Pig                   192.000   180.000
+57. Echidna                 3.000    25.000
+58. Brazilian tapir       160.000   169.000
+59. Tenrec                   .900     2.600
+60. Phalanger               1.620    11.400
+61. Tree shrew               .104     2.500
+62. Red fox                 4.235    50.400
